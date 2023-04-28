@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @huynguyen1305
-- 👀 I’m interested in ReactJS
-- 🌱 I’m currently learning TypeScript
 - 📫 Let's DM me via email: huynguyen1305.dev@gmail.com
 
 <!---
